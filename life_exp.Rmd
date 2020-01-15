@@ -21,6 +21,10 @@ data("gapminder_unfiltered")
 gapminder_unfiltered
 ```
 
-# Plot2
+# Plot
+```{r}
+library(dplyr)
+```
+
 
 
