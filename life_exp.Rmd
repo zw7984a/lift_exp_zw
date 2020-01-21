@@ -21,10 +21,9 @@ data("gapminder_unfiltered")
 gapminder_unfiltered
 ```
 
-# Plot
+calculate maximum
 ```{r}
-library(dplyr)
+
 ```
-
-
+# Plot
 
